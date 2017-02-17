@@ -35,7 +35,7 @@ class ViewController: UIViewController {
         }
         else
         {
-            print ("WRONG!!!!!!")
+            print ("WRONG!!!!!!!")
         }
         if (currentQuestion != questions.count)
         {
